@@ -1,0 +1,192 @@
+acid, acri, acrid, acu
+sour, sharp
+acidity
+n. 酸度
+acute
+a. 尖锐的
+acme
+n. 顶点，顶峰
+a
+1
+DONE
+acro
+top
+acrobat
+n. 杂技演员
+acrophobia
+n. 恐高症
+a
+1
+DONE
+act
+to do, to drive
+activity
+n. 活动
+enact
+v. 实施，颁布
+exact
+a. 精准的 v. 苛求，强求
+a
+1
+DONE
+aer, aero, aeri
+air
+aerology
+n. 气象学，大气学
+aerosphere
+n. 大气层内外空间
+aerodrome
+n. 飞机场
+a
+1
+DONE
+ag
+to do, to act
+agenda
+n. 议事日程
+agency
+n. 代理处
+coagent
+n. 合作者
+a
+1
+DONE
+agon
+struggle
+agony
+n. 痛苦
+agonize
+v. 感到痛苦
+a
+1
+DONE
+agri, agro, agr
+field, land
+agriculture
+n. 农业
+agrobiology
+n. 农业生物学
+a
+1
+DONE
+alb
+white
+albescent
+a. 发白的
+albinism
+n. 白化病
+a
+1
+DONE
+alt
+high
+altitude
+n. 高度
+exalt
+v. 升高，赞扬
+a
+1
+DONE
+alter, ali
+other, to change
+alteration
+n. 改造，改变
+alternative
+n. 二者择一
+alien
+a. 外国的，外来的
+a
+1
+DONE
+anc, anti
+old
+ancient
+a. 古代的
+antique
+a. 古代的 n. 古物
+a
+1
+DONE
+anim
+life, spirit
+animal
+n. 动物
+animate
+v. 使有生气，活泼
+a
+1
+DONE
+ann, enn
+year
+annual
+a. 一年一度的
+anniversary
+n. 周年纪念
+a
+1
+DONE
+anthrop
+man, human
+anthropology
+n. 人类学
+philanthropist
+n. 博爱主义者
+a
+1
+DONE
+apt, ept
+to fit, ability
+aptitude
+n. 适应能力，才能
+adapt
+v. 使适应，适应环境
+a
+1
+DONE
+aqu
+water
+aquarium
+n. 水族馆
+aqueduct
+n. 引水槽
+a
+1
+DONE
+arbit
+to judge
+arbiter
+n. 仲裁人，泰斗
+arbitrary
+a. 武断的
+a
+1
+DONE
+arch, archy
+ruler, rule, chief
+anarchy
+n. 无政府状态
+monarch
+n. 君主，帝王
+a
+1
+DONE
+arm
+weapon
+disarm
+v. 解除武器
+armament
+n. 兵器
+a
+1
+DONE
+art
+skill, joint, trick
+artful
+a. 巧妙的，狡猾的
+artifice
+n. 技巧，诡计
+artificial
+a. 人工的
+a
+1
+DONE

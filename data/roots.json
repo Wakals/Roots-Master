@@ -1,0 +1,101 @@
+{
+    "roots": [
+      {
+        "root": "cap, capt, cept, ceive",
+        "meaning": "to take, to hold",
+        "examples": [
+          {
+            "word": "capacity",
+            "meaning_cn": "容量，才能"
+          },
+          {
+            "word": "captive",
+            "meaning_cn": "俘虏"
+          },
+          {
+            "word": "capture",
+            "meaning_cn": "捉拿"
+          },
+          {
+            "word": "receive",
+            "meaning_cn": "接受，收到"
+          }
+        ],
+        "letter": "c",
+        "page": 4
+      },
+      {
+        "root": "chron",
+        "meaning": "time",
+        "examples": [
+          {
+            "word": "chronic",
+            "meaning_cn": "长期的"
+          },
+          {
+            "word": "chronology",
+            "meaning_cn": "年表"
+          }
+        ],
+        "letter": "c",
+        "page": 5
+      },
+      {
+        "root": "celer",
+        "meaning": "quick, speed",
+        "examples": [
+          {
+            "word": "accelerate",
+            "meaning_cn": "加速，加快"
+          },
+          {
+            "word": "decelerate",
+            "meaning_cn": "减速"
+          }
+        ],
+        "letter": "c",
+        "page": 5
+      },
+      {
+        "root": "cad, cas, cid",
+        "meaning": "to fall",
+        "examples": [
+            {
+                "word": "casual",
+                "meaning_cn": "a. 偶然的"
+            },
+            {
+                "word": "occasion",
+                "meaning_cn": "n. 事情的发生，时机"
+            },
+            {
+                "word": "incident",
+                "meaning_cn": "n. 偶然事件"
+            },
+            {
+                "word": "accidental",
+                "meaning_cn": "a. 偶然的"
+            }
+        ],
+        "letter": "c",
+        "page": "3"
+    },
+    {
+        "root": "cand",
+        "meaning": "white, glow",
+        "examples": [
+            {
+                "word": "candela",
+                "meaning_cn": "n. 烛光"
+            },
+            {
+                "word": "candle",
+                "meaning_cn": "n. 蜡烛"
+            }
+        ],
+        "letter": "c",
+        "page": "3"
+    }
+    ]
+  }
+  

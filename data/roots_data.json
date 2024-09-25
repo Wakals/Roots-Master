@@ -1,0 +1,348 @@
+{
+    "roots": [
+        {
+            "root": "acid, acri, acrid, acu",
+            "meaning": "sour, sharp",
+            "examples": [
+                {
+                    "word": "acidity",
+                    "meaning_cn": "n. 酸度"
+                },
+                {
+                    "word": "acute",
+                    "meaning_cn": "a. 尖锐的"
+                },
+                {
+                    "word": "acme",
+                    "meaning_cn": "n. 顶点，顶峰"
+                }
+            ],
+            "letter": "a",
+            "page": "1"
+        },
+        {
+            "root": "acro",
+            "meaning": "top",
+            "examples": [
+                {
+                    "word": "acrobat",
+                    "meaning_cn": "n. 杂技演员"
+                },
+                {
+                    "word": "acrophobia",
+                    "meaning_cn": "n. 恐高症"
+                }
+            ],
+            "letter": "a",
+            "page": "1"
+        },
+        {
+            "root": "act",
+            "meaning": "to do, to drive",
+            "examples": [
+                {
+                    "word": "activity",
+                    "meaning_cn": "n. 活动"
+                },
+                {
+                    "word": "enact",
+                    "meaning_cn": "v. 实施，颁布"
+                },
+                {
+                    "word": "exact",
+                    "meaning_cn": "a. 精准的 v. 苛求，强求"
+                }
+            ],
+            "letter": "a",
+            "page": "1"
+        },
+        {
+            "root": "aer, aero, aeri",
+            "meaning": "air",
+            "examples": [
+                {
+                    "word": "aerology",
+                    "meaning_cn": "n. 气象学，大气学"
+                },
+                {
+                    "word": "aerosphere",
+                    "meaning_cn": "n. 大气层内外空间"
+                },
+                {
+                    "word": "aerodrome",
+                    "meaning_cn": "n. 飞机场"
+                }
+            ],
+            "letter": "a",
+            "page": "1"
+        },
+        {
+            "root": "ag",
+            "meaning": "to do, to act",
+            "examples": [
+                {
+                    "word": "agenda",
+                    "meaning_cn": "n. 议事日程"
+                },
+                {
+                    "word": "agency",
+                    "meaning_cn": "n. 代理处"
+                },
+                {
+                    "word": "coagent",
+                    "meaning_cn": "n. 合作者"
+                }
+            ],
+            "letter": "a",
+            "page": "1"
+        },
+        {
+            "root": "agon",
+            "meaning": "struggle",
+            "examples": [
+                {
+                    "word": "agony",
+                    "meaning_cn": "n. 痛苦"
+                },
+                {
+                    "word": "agonize",
+                    "meaning_cn": "v. 感到痛苦"
+                }
+            ],
+            "letter": "a",
+            "page": "1"
+        },
+        {
+            "root": "agri, agro, agr",
+            "meaning": "field, land",
+            "examples": [
+                {
+                    "word": "agriculture",
+                    "meaning_cn": "n. 农业"
+                },
+                {
+                    "word": "agrobiology",
+                    "meaning_cn": "n. 农业生物学"
+                }
+            ],
+            "letter": "a",
+            "page": "1"
+        },
+        {
+            "root": "alb",
+            "meaning": "white",
+            "examples": [
+                {
+                    "word": "albescent",
+                    "meaning_cn": "a. 发白的"
+                },
+                {
+                    "word": "albinism",
+                    "meaning_cn": "n. 白化病"
+                }
+            ],
+            "letter": "a",
+            "page": "1"
+        },
+        {
+            "root": "alt",
+            "meaning": "high",
+            "examples": [
+                {
+                    "word": "altitude",
+                    "meaning_cn": "n. 高度"
+                },
+                {
+                    "word": "exalt",
+                    "meaning_cn": "v. 升高，赞扬"
+                }
+            ],
+            "letter": "a",
+            "page": "1"
+        },
+        {
+            "root": "alter, ali",
+            "meaning": "other, to change",
+            "examples": [
+                {
+                    "word": "alteration",
+                    "meaning_cn": "n. 改造，改变"
+                },
+                {
+                    "word": "alternative",
+                    "meaning_cn": "n. 二者择一"
+                },
+                {
+                    "word": "alien",
+                    "meaning_cn": "a. 外国的，外来的"
+                }
+            ],
+            "letter": "a",
+            "page": "1"
+        },
+        {
+            "root": "anc, anti",
+            "meaning": "old",
+            "examples": [
+                {
+                    "word": "ancient",
+                    "meaning_cn": "a. 古代的"
+                },
+                {
+                    "word": "antique",
+                    "meaning_cn": "a. 古代的 n. 古物"
+                }
+            ],
+            "letter": "a",
+            "page": "1"
+        },
+        {
+            "root": "anim",
+            "meaning": "life, spirit",
+            "examples": [
+                {
+                    "word": "animal",
+                    "meaning_cn": "n. 动物"
+                },
+                {
+                    "word": "animate",
+                    "meaning_cn": "v. 使有生气，活泼"
+                }
+            ],
+            "letter": "a",
+            "page": "1"
+        },
+        {
+            "root": "ann, enn",
+            "meaning": "year",
+            "examples": [
+                {
+                    "word": "annual",
+                    "meaning_cn": "a. 一年一度的"
+                },
+                {
+                    "word": "anniversary",
+                    "meaning_cn": "n. 周年纪念"
+                }
+            ],
+            "letter": "a",
+            "page": "1"
+        },
+        {
+            "root": "anthrop",
+            "meaning": "man, human",
+            "examples": [
+                {
+                    "word": "anthropology",
+                    "meaning_cn": "n. 人类学"
+                },
+                {
+                    "word": "philanthropist",
+                    "meaning_cn": "n. 博爱主义者"
+                }
+            ],
+            "letter": "a",
+            "page": "1"
+        },
+        {
+            "root": "apt, ept",
+            "meaning": "to fit, ability",
+            "examples": [
+                {
+                    "word": "aptitude",
+                    "meaning_cn": "n. 适应能力，才能"
+                },
+                {
+                    "word": "adapt",
+                    "meaning_cn": "v. 使适应，适应环境"
+                }
+            ],
+            "letter": "a",
+            "page": "1"
+        },
+        {
+            "root": "aqu",
+            "meaning": "water",
+            "examples": [
+                {
+                    "word": "aquarium",
+                    "meaning_cn": "n. 水族馆"
+                },
+                {
+                    "word": "aqueduct",
+                    "meaning_cn": "n. 引水槽"
+                }
+            ],
+            "letter": "a",
+            "page": "1"
+        },
+        {
+            "root": "arbit",
+            "meaning": "to judge",
+            "examples": [
+                {
+                    "word": "arbiter",
+                    "meaning_cn": "n. 仲裁人，泰斗"
+                },
+                {
+                    "word": "arbitrary",
+                    "meaning_cn": "a. 武断的"
+                }
+            ],
+            "letter": "a",
+            "page": "1"
+        },
+        {
+            "root": "arch, archy",
+            "meaning": "ruler, rule, chief",
+            "examples": [
+                {
+                    "word": "anarchy",
+                    "meaning_cn": "n. 无政府状态"
+                },
+                {
+                    "word": "monarch",
+                    "meaning_cn": "n. 君主，帝王"
+                }
+            ],
+            "letter": "a",
+            "page": "1"
+        },
+        {
+            "root": "arm",
+            "meaning": "weapon",
+            "examples": [
+                {
+                    "word": "disarm",
+                    "meaning_cn": "v. 解除武器"
+                },
+                {
+                    "word": "armament",
+                    "meaning_cn": "n. 兵器"
+                }
+            ],
+            "letter": "a",
+            "page": "1"
+        },
+        {
+            "root": "art",
+            "meaning": "skill, joint, trick",
+            "examples": [
+                {
+                    "word": "artful",
+                    "meaning_cn": "a. 巧妙的，狡猾的"
+                },
+                {
+                    "word": "artifice",
+                    "meaning_cn": "n. 技巧，诡计"
+                },
+                {
+                    "word": "artificial",
+                    "meaning_cn": "a. 人工的"
+                }
+            ],
+            "letter": "a",
+            "page": "1"
+        }
+    ]
+}
