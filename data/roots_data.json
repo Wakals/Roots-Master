@@ -683,6 +683,154 @@
             ],
             "letter": "b",
             "page": "3"
+        },
+        {
+            "root": "cad, cas, cid",
+            "meaning": "to fall",
+            "examples": [
+                {
+                    "word": "casual",
+                    "meaning_cn": "a. 偶然的"
+                },
+                {
+                    "word": "occasion",
+                    "meaning_cn": "n. 事情的发生，时机"
+                },
+                {
+                    "word": "incident",
+                    "meaning_cn": "n. 偶然事件"
+                },
+                {
+                    "word": "accidental",
+                    "meaning_cn": "a. 偶然的"
+                }
+            ],
+            "letter": "c",
+            "page": "3"
+        },
+        {
+            "root": "cand",
+            "meaning": "white, glow",
+            "examples": [
+                {
+                    "word": "candela",
+                    "meaning_cn": "n. 烛光"
+                },
+                {
+                    "word": "candle",
+                    "meaning_cn": "n. 蜡烛"
+                }
+            ],
+            "letter": "c",
+            "page": "3"
+        },
+        {
+            "root": "cant, cent",
+            "meaning": "song, to sing",
+            "examples": [
+                {
+                    "word": "chant",
+                    "meaning_cn": "n. 圣歌，赞美歌"
+                },
+                {
+                    "word": "cantata",
+                    "meaning_cn": "n. 清唱剧"
+                },
+                {
+                    "word": "accent",
+                    "meaning_cn": "n. 口音，重音"
+                },
+                {
+                    "word": "accentuate",
+                    "meaning_cn": "v. 强调，重读"
+                }
+            ],
+            "letter": "c",
+            "page": "3"
+        },
+        {
+            "root": "cap, capt, cept, ceive, cip, cup",
+            "meaning": "to take, to hold",
+            "examples": [
+                {
+                    "word": "capacity",
+                    "meaning_cn": "n. 容量，才能"
+                },
+                {
+                    "word": "captive",
+                    "meaning_cn": "n. 俘虏"
+                },
+                {
+                    "word": "capture",
+                    "meaning_cn": "v. 捉拿"
+                },
+                {
+                    "word": "accept",
+                    "meaning_cn": "v. 接受，承认"
+                },
+                {
+                    "word": "receive",
+                    "meaning_cn": "v. 接受，收到"
+                },
+                {
+                    "word": "anticipate",
+                    "meaning_cn": "v. 预料，预期"
+                },
+                {
+                    "word": "participate",
+                    "meaning_cn": "v. 参加，共享"
+                },
+                {
+                    "word": "occupy",
+                    "meaning_cn": "v. 占领，使用"
+                },
+                {
+                    "word": "occupation",
+                    "meaning_cn": "n. 职业，占有"
+                }
+            ],
+            "letter": "c",
+            "page": "3"
+        },
+        {
+            "root": "cap, capit",
+            "meaning": "head",
+            "examples": [
+                {
+                    "word": "capital",
+                    "meaning_cn": "a./n. 首要的/首都，资本"
+                },
+                {
+                    "word": "captain",
+                    "meaning_cn": "n. 首领，船长"
+                },
+                {
+                    "word": "capitation",
+                    "meaning_cn": "n. 人头税，丁税"
+                }
+            ],
+            "letter": "c",
+            "page": "3"
+        },
+        {
+            "root": "card, cord",
+            "meaning": "heart",
+            "examples": [
+                {
+                    "word": "cardiac",
+                    "meaning_cn": "a. 心脏的"
+                },
+                {
+                    "word": "cordial",
+                    "meaning_cn": "a. 真诚的"
+                },
+                {
+                    "word": "accord",
+                    "meaning_cn": "n. 一致，符合，协调"
+                }
+            ],
+            "letter": "c",
+            "page": "3"
         }
     ]
 }
