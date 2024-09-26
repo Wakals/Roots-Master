@@ -190,3 +190,193 @@ a. 人工的
 a
 1
 DONE
+am, amor
+love
+amateur
+n. 业余爱好者
+amour
+n. 男女爱情
+a
+2
+DONE
+ambul
+to walk
+ambulance
+n. 救护车，流动医院
+circumambulate
+v. 环行，绕...而行
+somnambulate
+v. 梦游，梦行
+a
+2
+DONE
+ample
+large
+amplify
+v. 放大，扩大
+amplitude
+n. 广大
+a
+2
+DONE
+astro, aster
+star
+astronaut
+n. 宇航员
+astrophysics
+n. 天体物理学
+a
+2
+DONE
+audi, audit
+to hear
+audience
+n. 听众，观众
+auditorium
+n. 礼堂，讲堂
+a
+2
+DONE
+aug
+to increase
+augment
+v. 增大
+augmentation
+n. 增大，扩大
+a
+2
+DONE
+av, avar, avi
+desire, bird
+avarice
+n. 贪心
+aviculture
+n. 养鸟业
+a
+2
+DONE
+ball, bol
+to throw, dance, ball
+ballon
+n. 气球
+bullet
+n. 枪弹
+ballet
+n. 芭蕾舞
+b
+2
+DONE
+balm
+balsam
+balmy
+a. 芬芳的，温和的
+embalm
+v. 保存，铭记
+b
+2
+DONE
+ban
+to prohibit
+banish
+v. 驱逐出境
+abandon
+v. 抛弃，放弃
+b
+2
+DONE
+bar
+weight, stick
+baric
+a. 气压的
+barometer
+n. 气压计
+barrier
+n. 栅栏
+barrage
+n. 阻塞，遮断
+b
+2
+DONE
+bas, base
+low, foundation
+basement
+n. 地下室
+bass
+a/n. 低音(的)
+abase
+v. 降低
+b
+2
+DONE
+bibli
+book
+bibliography
+n. 书目题要
+bible
+n. 圣经
+b
+2
+DONE
+bio, bi
+life
+biology
+n. 生物
+biography
+n. 传记
+b
+2
+DONE
+blanc
+white
+blank
+a. 空白的
+blanch
+v. 漂白，发白
+b
+2
+DONE
+brace
+two arms
+bracelet
+n. 手镯
+embrace
+v. 拥抱，包括
+b
+2
+DONE
+braid
+to twist
+braid
+v. 编成辫子
+upbraid
+v. 谴责
+b
+2
+DONE
+bat
+to bear
+batter
+v. 连续猛打
+combat
+n. 战斗
+b
+3
+DONE
+bell, bel
+war, to fight
+rebellion
+n. 反叛，反抗
+rebel
+v. 反叛
+b
+3
+DONE
+brev, bridg
+short
+brevity
+n. 短暂，简介
+abridge
+v. 删节，削减
+b
+3
+DONE

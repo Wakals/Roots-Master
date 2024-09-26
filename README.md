@@ -27,4 +27,5 @@ python main.py
 - [ ] Beautify the UI
 - [ ] Update the spelling function
 
-* ##### Page currently updated: `1`
+* ##### Page currently updated: `3`
+* ##### First letter updated: `b`

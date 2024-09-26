@@ -343,6 +343,346 @@
             ],
             "letter": "a",
             "page": "1"
+        },
+        {
+            "root": "am, amor",
+            "meaning": "love",
+            "examples": [
+                {
+                    "word": "amateur",
+                    "meaning_cn": "n. 业余爱好者"
+                },
+                {
+                    "word": "amour",
+                    "meaning_cn": "n. 男女爱情"
+                }
+            ],
+            "letter": "a",
+            "page": "2"
+        },
+        {
+            "root": "ambul",
+            "meaning": "to walk",
+            "examples": [
+                {
+                    "word": "ambulance",
+                    "meaning_cn": "n. 救护车，流动医院"
+                },
+                {
+                    "word": "circumambulate",
+                    "meaning_cn": "v. 环行，绕...而行"
+                },
+                {
+                    "word": "somnambulate",
+                    "meaning_cn": "v. 梦游，梦行"
+                }
+            ],
+            "letter": "a",
+            "page": "2"
+        },
+        {
+            "root": "ample",
+            "meaning": "large",
+            "examples": [
+                {
+                    "word": "amplify",
+                    "meaning_cn": "v. 放大，扩大"
+                },
+                {
+                    "word": "amplitude",
+                    "meaning_cn": "n. 广大"
+                }
+            ],
+            "letter": "a",
+            "page": "2"
+        },
+        {
+            "root": "astro, aster",
+            "meaning": "star",
+            "examples": [
+                {
+                    "word": "astronaut",
+                    "meaning_cn": "n. 宇航员"
+                },
+                {
+                    "word": "astrophysics",
+                    "meaning_cn": "n. 天体物理学"
+                }
+            ],
+            "letter": "a",
+            "page": "2"
+        },
+        {
+            "root": "audi, audit",
+            "meaning": "to hear",
+            "examples": [
+                {
+                    "word": "audience",
+                    "meaning_cn": "n. 听众，观众"
+                },
+                {
+                    "word": "auditorium",
+                    "meaning_cn": "n. 礼堂，讲堂"
+                }
+            ],
+            "letter": "a",
+            "page": "2"
+        },
+        {
+            "root": "aug",
+            "meaning": "to increase",
+            "examples": [
+                {
+                    "word": "augment",
+                    "meaning_cn": "v. 增大"
+                },
+                {
+                    "word": "augmentation",
+                    "meaning_cn": "n. 增大，扩大"
+                }
+            ],
+            "letter": "a",
+            "page": "2"
+        },
+        {
+            "root": "av, avar, avi",
+            "meaning": "desire, bird",
+            "examples": [
+                {
+                    "word": "avarice",
+                    "meaning_cn": "n. 贪心"
+                },
+                {
+                    "word": "aviculture",
+                    "meaning_cn": "n. 养鸟业"
+                }
+            ],
+            "letter": "a",
+            "page": "2"
+        },
+        {
+            "root": "ball, bol",
+            "meaning": "to throw, dance, ball",
+            "examples": [
+                {
+                    "word": "ballon",
+                    "meaning_cn": "n. 气球"
+                },
+                {
+                    "word": "bullet",
+                    "meaning_cn": "n. 枪弹"
+                },
+                {
+                    "word": "ballet",
+                    "meaning_cn": "n. 芭蕾舞"
+                }
+            ],
+            "letter": "b",
+            "page": "2"
+        },
+        {
+            "root": "balm",
+            "meaning": "balsam",
+            "examples": [
+                {
+                    "word": "balmy",
+                    "meaning_cn": "a. 芬芳的，温和的"
+                },
+                {
+                    "word": "embalm",
+                    "meaning_cn": "v. 保存，铭记"
+                }
+            ],
+            "letter": "b",
+            "page": "2"
+        },
+        {
+            "root": "ban",
+            "meaning": "to prohibit",
+            "examples": [
+                {
+                    "word": "banish",
+                    "meaning_cn": "v. 驱逐出境"
+                },
+                {
+                    "word": "abandon",
+                    "meaning_cn": "v. 抛弃，放弃"
+                }
+            ],
+            "letter": "b",
+            "page": "2"
+        },
+        {
+            "root": "bar",
+            "meaning": "weight, stick",
+            "examples": [
+                {
+                    "word": "baric",
+                    "meaning_cn": "a. 气压的"
+                },
+                {
+                    "word": "barometer",
+                    "meaning_cn": "n. 气压计"
+                },
+                {
+                    "word": "barrier",
+                    "meaning_cn": "n. 栅栏"
+                },
+                {
+                    "word": "barrage",
+                    "meaning_cn": "n. 阻塞，遮断"
+                }
+            ],
+            "letter": "b",
+            "page": "2"
+        },
+        {
+            "root": "bas, base",
+            "meaning": "low, foundation",
+            "examples": [
+                {
+                    "word": "basement",
+                    "meaning_cn": "n. 地下室"
+                },
+                {
+                    "word": "bass",
+                    "meaning_cn": "a/n. 低音(的)"
+                },
+                {
+                    "word": "abase",
+                    "meaning_cn": "v. 降低"
+                }
+            ],
+            "letter": "b",
+            "page": "2"
+        },
+        {
+            "root": "bibli",
+            "meaning": "book",
+            "examples": [
+                {
+                    "word": "bibliography",
+                    "meaning_cn": "n. 书目题要"
+                },
+                {
+                    "word": "bible",
+                    "meaning_cn": "n. 圣经"
+                }
+            ],
+            "letter": "b",
+            "page": "2"
+        },
+        {
+            "root": "bio, bi",
+            "meaning": "life",
+            "examples": [
+                {
+                    "word": "biology",
+                    "meaning_cn": "n. 生物"
+                },
+                {
+                    "word": "biography",
+                    "meaning_cn": "n. 传记"
+                }
+            ],
+            "letter": "b",
+            "page": "2"
+        },
+        {
+            "root": "blanc",
+            "meaning": "white",
+            "examples": [
+                {
+                    "word": "blank",
+                    "meaning_cn": "a. 空白的"
+                },
+                {
+                    "word": "blanch",
+                    "meaning_cn": "v. 漂白，发白"
+                }
+            ],
+            "letter": "b",
+            "page": "2"
+        },
+        {
+            "root": "brace",
+            "meaning": "two arms",
+            "examples": [
+                {
+                    "word": "bracelet",
+                    "meaning_cn": "n. 手镯"
+                },
+                {
+                    "word": "embrace",
+                    "meaning_cn": "v. 拥抱，包括"
+                }
+            ],
+            "letter": "b",
+            "page": "2"
+        },
+        {
+            "root": "braid",
+            "meaning": "to twist",
+            "examples": [
+                {
+                    "word": "braid",
+                    "meaning_cn": "v. 编成辫子"
+                },
+                {
+                    "word": "upbraid",
+                    "meaning_cn": "v. 谴责"
+                }
+            ],
+            "letter": "b",
+            "page": "2"
+        },
+        {
+            "root": "bat",
+            "meaning": "to bear",
+            "examples": [
+                {
+                    "word": "batter",
+                    "meaning_cn": "v. 连续猛打"
+                },
+                {
+                    "word": "combat",
+                    "meaning_cn": "n. 战斗"
+                }
+            ],
+            "letter": "b",
+            "page": "3"
+        },
+        {
+            "root": "bell, bel",
+            "meaning": "war, to fight",
+            "examples": [
+                {
+                    "word": "rebellion",
+                    "meaning_cn": "n. 反叛，反抗"
+                },
+                {
+                    "word": "rebel",
+                    "meaning_cn": "v. 反叛"
+                }
+            ],
+            "letter": "b",
+            "page": "3"
+        },
+        {
+            "root": "brev, bridg",
+            "meaning": "short",
+            "examples": [
+                {
+                    "word": "brevity",
+                    "meaning_cn": "n. 短暂，简介"
+                },
+                {
+                    "word": "abridge",
+                    "meaning_cn": "v. 删节，削减"
+                }
+            ],
+            "letter": "b",
+            "page": "3"
         }
     ]
 }
