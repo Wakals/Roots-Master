@@ -28,4 +28,4 @@ python main.py
 - [ ] Update the spelling function
 
 * ##### Page currently updated: `3`
-* ##### First letter updated: `b`
+* ##### First letter updated: `c`

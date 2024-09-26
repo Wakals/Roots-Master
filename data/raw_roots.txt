@@ -380,3 +380,83 @@ v. 删节，削减
 b
 3
 DONE
+cad, cas, cid
+to fall
+casual
+a. 偶然的
+occasion
+n. 事情的发生，时机
+incident
+n. 偶然事件
+accidental
+a. 偶然的
+c
+3
+DONE
+cand
+white, glow
+candela
+n. 烛光
+candle
+n. 蜡烛
+c
+3
+DONE
+cant, cent
+song, to sing
+chant
+n. 圣歌，赞美歌
+cantata
+n. 清唱剧
+accent
+n. 口音，重音
+accentuate
+v. 强调，重读
+c
+3
+DONE
+cap, capt, cept, ceive, cip, cup
+to take, to hold
+capacity
+n. 容量，才能
+captive
+n. 俘虏
+capture
+v. 捉拿
+accept
+v. 接受，承认
+receive
+v. 接受，收到
+anticipate
+v. 预料，预期
+participate
+v. 参加，共享
+occupy
+v. 占领，使用
+occupation
+n. 职业，占有
+c
+3
+DONE
+cap, capit
+head
+capital
+a./n. 首要的/首都，资本
+captain
+n. 首领，船长
+capitation
+n. 人头税，丁税
+c
+3
+DONE
+card, cord
+heart
+cardiac
+a. 心脏的
+cordial
+a. 真诚的
+accord
+n. 一致，符合，协调
+c
+3
+DONE
